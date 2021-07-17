@@ -32,6 +32,15 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>com.gebirel</groupId>
+            <artifactId>common</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.gebriel</groupId>
+            <artifactId>domain</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
