@@ -1,4 +1,4 @@
-package com.gebirel.common.tools;
+package com.gebriel.common.tools;
 
 /**
  * @author lizhenjiang

@@ -1,8 +1,6 @@
 package com.gebriel.application.demo.dto;
 
-import com.sun.istack.internal.NotNull;
 import lombok.Data;
-import lombok.NonNull;
 
 /**
  * @author lizhenjiang
